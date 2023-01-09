@@ -25,11 +25,11 @@ My Hobbies:
 
 ### FUNFACT
 
-As a swiss person I love cheese, chocolate and yes also Rolex 😄
+As a swiss person I love cheese, chocolate (lindt) and yes also Rolex 😄
 
 
 <img src=https://user-images.githubusercontent.com/113176123/211322128-24a30d4d-0a05-43e7-b07d-364a6b770be9.jpeg width="200" height="200" />
 
 Best Restaurant in my home town:
-[Grotto](https://grottoraffael.ch/)
+[Grotto Raffael](https://grottoraffael.ch/)
 
