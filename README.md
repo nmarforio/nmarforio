@@ -17,9 +17,9 @@ My Hobbies:
 
 ## FUNFACT
 
-As a swiss person I love cheese, chocolate and yes also Rolex
+As a swiss person I love cheese, chocolate and yes also Rolex!
 
-specifically:
-![lindt](https://cdn0.woolworths.media/content/wowproductimages/large/019731.jpg)
+
+![019731](https://user-images.githubusercontent.com/113176123/211320409-e824499e-e6fb-4ddd-83eb-265a98588bea.jpeg | width=100)
 
 
