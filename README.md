@@ -18,7 +18,4 @@ My Hobbies:
 ## FUNFACT
 
 As a swiss person I love cheese, chocolate and yes also Rolex!
-
-![lindt](https://giphy.com/gifs/chocolate-lindt-masterchocolatier-f5jnBmTkntodQyoBiO)
-
-
+<img src=https://user-images.githubusercontent.com/113176123/211322128-24a30d4d-0a05-43e7-b07d-364a6b770be9.jpeg width="200" height="400" />
