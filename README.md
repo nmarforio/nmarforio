@@ -19,7 +19,6 @@ My Hobbies:
 
 As a swiss person I love cheese, chocolate and yes also Rolex!
 
-
-![019731](https://user-images.githubusercontent.com/113176123/211320409-e824499e-e6fb-4ddd-83eb-265a98588bea.jpeg | width=100)
+![lindt](https://giphy.com/gifs/chocolate-lindt-masterchocolatier-f5jnBmTkntodQyoBiO)
 
 
