@@ -3,9 +3,12 @@
 
 I'm Nicole from Switzerland 🇨🇭 and living in Berlin since a good 7 years.
 This year 2023 I start a coding bootcamp to have a new carriere opportunity, i decide to do a Full-Stack Web developer bootcamp at Spiced Academy in Berlin.
-My skills are mostly in React, Next.js, Javascript, HTML, CSS and Mongodb.
+
+My skills are mostly in:
+React, Next.js, Javascript, HTML, CSS and Mongodb
+
 Obviusly I'm doing my homework and I'm growing my knowledge in Typescript and MySQL.
-To be ready for new jobs i also traning with CodeWars, you can finde a repo about it.
+To be ready for new jobs i also traning with CodeWars, you can find a repo about it.
 
 **Languages**
 - Italian _mothertong_
