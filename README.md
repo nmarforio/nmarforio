@@ -8,7 +8,10 @@ My skills are mostly in:
 React, Next.js, Javascript, HTML, CSS and Mongodb
 
 Obviusly I'm doing my homework and I'm growing my knowledge in Typescript and MySQL.
-To be ready for new jobs i also traning with CodeWars, you can find a repo about it.
+To be ready for new jobs i also traning with CodeWars, you can find a repo about it too.
+
+During the bootcamp I worked on different project and here is my final one I still working on:
+https://github.com/nmarforio/saponi_per_tutti
 
 **Languages**
 - Italian _mothertong_
