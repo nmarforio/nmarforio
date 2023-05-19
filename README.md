@@ -32,8 +32,9 @@ As a swiss person I love cheese, chocolate (lindt) and yes also Rolex ;)
 
 
 My Hobbies:
-- Love reading Books, best way is at the beach 🏝️
-[TRILOGY OF THE CITY OF K. -A. Kristof](https://librashion.blogspot.com/2013/05/trilogy-of-city-of-k-kristof.html)
+- Love reading Books, best way is at the beach 🏝️ Current Books:
+      - Enigma of the Room 622 (https://www.kirkusreviews.com/book-reviews/joel-dicker/the-enigma-of-room-622/)
+      - The Legend of Fukiage: Book 1 (https://selftaughtjapanese.com/2020/08/10/japanese-literature-review-the-legend-of-fukiage-book-1-吹上奇譚-第一話-by-banana-yoshimoto-吉本バナ/)
 - Pottery
 - Areal Hoop
 - Cooking
