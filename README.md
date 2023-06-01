@@ -7,7 +7,7 @@ This year 2023 I started a coding bootcamp to have a new carriere opportunity, i
 My skills are mostly in:
 React, Next.js, Javascript, HTML, CSS, Mongodb, Python and Pygame
 
-Obviusly I'm doing my homework and I'm growing my knowledge with some project I programmed with Python and a bit of Typescript.
+Obviusly I'm doing my homework and I'm growing my knowledge with some project, I try to create a project each week to cover as much topics as possible.
 To be ready for new jobs I'm also traning with CodeWars, you can find a repo about it too.
 
 During the bootcamp I worked on different project and here is my final one:
