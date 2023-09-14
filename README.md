@@ -22,6 +22,9 @@ enjoy the game :D
 June 2023:
 I devcide to follow a couple of link with many different ideas and I'am developing it with React and Typescript
 
+August 2023:
+I decide to learning Java, I create some repositories to save my knowledge and soon I wanna develope a project with it.
+
 **Languages**
 - Italian _mothertong_
 - German
@@ -41,11 +44,9 @@ As a swiss person I love cheese, chocolate (Lindt) and yes also Rolex ;)
 
 
 My Hobbies:
-- Love reading Books, best way is at the beach 🏝️ Current Books:
-      - Enigma of the Room 622 (https://www.kirkusreviews.com/book-reviews/joel-dicker/the-enigma-of-room-622/)
-      - The Legend of Fukiage: Book 1 (https://selftaughtjapanese.com/2020/08/10/japanese-literature-review-the-legend-of-fukiage-book-1-吹上奇譚-第一話-by-banana-yoshimoto-吉本バナ/)
+- Love reading Books
 - Pottery
-- Areal Hoop
+- Workout
 - Cooking
 
 
