@@ -1,5 +1,5 @@
 
-# Hi is me...
+# Hi it's me...
 
 I'm Nicole from Switzerland 🇨🇭 and living in Berlin since a good 7 years.
 This year 2023 I started a coding bootcamp to have a new carriere opportunity, i decide to do a Full-Stack Web developer bootcamp at Spiced Academy in Berlin.
